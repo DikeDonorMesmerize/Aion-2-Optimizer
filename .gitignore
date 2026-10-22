@@ -1,0 +1,39 @@
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Build output
+build/
+dist/
+out/
+bin/
+obj/
+__pycache__/
+*.py[cod]
+*.spec
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+
+# System files
+desktop.ini
+ehthumbs.db
